@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2790195-7576-4810-b0af-391bd511a84e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewModule/NewModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewModule/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_10_Interfaces/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_10_Interfaces/interfaces/A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_10_Interfaces/interfaces/B.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_10_Interfaces/interfaces/MyInterface.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_11_Abstract_classes_and_the_open_modifier/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_11_Abstract_classes_and_the_open_modifier/abstracs/ATemplate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_11_Abstract_classes_and_the_open_modifier/abstracs/BaseTemplate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_12_The_open_modifier_and_its_scope/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_12_The_open_modifier_and_its_scope/openexam/Driver.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_12_The_open_modifier_and_its_scope/openexam/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_13_Access_modifiers/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_13_Access_modifiers/Mouse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_13_Access_modifiers/SuperMouse.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_14_Coolness_and_flexibility_of_cycles/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_15_Using_the_IN_modifier/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_16_How_are_POJOs_written_in_Kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_16_How_are_POJOs_written_in_Kotlin/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_17_Sealed_Classes/Expr.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_17_Sealed_Classes/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_1_String_Templates/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_2_Variables_var_and_val/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_2_Variables_var_and_val/UserJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_2_Variables_var_and_val/UserKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_3_Kotlin_data_types/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_4_Functions/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_5_NPE_Null_Safety/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_6_Working_with_classes_an_ their_properties/Car.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_6_Working_with_classes_an_ their_properties/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_6_Working_with_classes_an_ their_properties/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_7_Importing_Methods_and_Classes/Animals/Cat/CatA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_7_Importing_Methods_and_Classes/Animals/Cat/CatB.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_7_Importing_Methods_and_Classes/Animals/Dog/DogA.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_7_Importing_Methods_and_Classes/Animals/Utils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_7_Importing_Methods_and_Classes/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_8_Enumerations_and_their_role/Colors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_8_Enumerations_and_their_role/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_9_Selection_operator/Colors.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_9_Selection_operator/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/AbstractAndInterfaceClasses/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/AbstractAndInterfaceClasses/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/AbstractAndInterfaceClasses/UserInfoProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/Array/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/Classes/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/Classes/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/DataClasses/Db.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/DataClasses/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/FunctionParameters/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/NasledovanieClass/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/NasledovanieClass/NewClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/NasledovanieClass/User.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/NasledovanieClass/UserInfoProvider.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/itProger/Сycle/Main.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Sealed Class" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Interface" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1pnrEd9KiMZJ4fibpA8BKJsFkt8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/Devcolibri/Lesson_12_The_open_modifier_and_its_scope" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Eugene\_Programming\JavaProjects\Kotlin\src\main\kotlin\Devcolibri\Lesson_12_The_open_modifier_and_its_scope" />
+      <recent name="C:\Eugene\_Programming\JavaProjects\Kotlin\src\main\kotlin\NasledovanieClass" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Eugene\_Programming\JavaProjects\Kotlin\src\main\kotlin\Classes" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Devcolibri.Lesson_10_Interfaces.interfaces" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="Devcolibri.Lesson_9_Selection_operator" />
+      <recent name="Devcolibri.Lesson_17_Sealed_Classes" />
+      <recent name="Devcolibri.Lesson_16_How_are_POJOs_written_in_Kotlin" />
+      <recent name="Devcolibri.Lesson_15_Using_the_IN_modifier" />
+      <recent name="Devcolibri.Lesson_14_Coolness_and_flexibility_of_cycles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Kotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Devcolibri.Lesson_17_Sealed_Classes.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.MainKt" />
+        <item itemvalue="Application.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2790195-7576-4810-b0af-391bd511a84e" name="Default Changelist" comment="" />
+      <created>1615829586278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615829586278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Kotlin$MainKt.ic" NAME="MainKt Coverage Results" MODIFIED="1617299371246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
